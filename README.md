@@ -42,7 +42,9 @@ body {
 - ### Default 
 
 ```
-localStorage.setItem('theme', 'your default theme here');
+ if (localStorage.getItem("theme") === null) {
+  localStorage.setItem('theme', 'your default theme here');
+}
 ```
 
 - ### Set to device's default theme
