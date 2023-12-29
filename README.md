@@ -1,6 +1,7 @@
 # Themer
 
 - Guide to easily add themes in your website using 'theme-change'
+- This is not a library. This is a guide for the 'theme-change' library with snippets
 
 # Demo
 
