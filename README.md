@@ -6,6 +6,10 @@
 
 - Default device theme demo on [snipc's website](https://github.com/realsnipc/website)
 
+  # Setup
+
+  - Install 'theme-change' in your project. Refer to the [orignal repository](https://github.com/saadeghi/theme-change)
+
 ## CSS
 
 Set your themeable style as custom properties in CSS like this:
