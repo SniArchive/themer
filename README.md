@@ -1,14 +1,14 @@
-# 🎨 Themer
+# Themer
 
 - Guide to easily add themes in your website using 'theme-change'
 
-# 🖥 Demo
+# Demo
 
 - Default device theme demo on [snipc's website](https://github.com/realsnipc/website)
 
-  # Setup
+# Setup
 
-  - Install 'theme-change' in your project. Refer to the [orignal repository](https://github.com/saadeghi/theme-change)
+- Install 'theme-change' in your project. Refer to the [orignal repository](https://github.com/saadeghi/theme-change)
 
 ## CSS
 
